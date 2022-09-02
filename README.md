@@ -38,6 +38,6 @@ Wireless Pico PC Sensor Monitor with power consumption calculator using Raspberr
 - The green text shows the installed devices wattage on the left, current temperatures on the right. The color will change when the values are increasing from green to red;
 -The large magenta text at the bottom half of the screen is the current  total wattage;
 -The framed small magenta text in the middle right: 
- - $$/h: the cost of energy per hour with the current system load;
- - Total $: the accumulated cost for the electricity spent for the current session;
+  - $$/h: the cost of energy per hour with the current system load;
+  - Total $: the accumulated cost for the electricity spent for the current session;
 - (Optionally) It is possible to change brightness of the screen with A and B hardware buttons if you have the ones.
