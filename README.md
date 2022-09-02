@@ -42,3 +42,9 @@ Wireless Pico PC Sensor Monitor with power consumption calculator using Raspberr
   - $$/h: the cost of energy per hour with the current system load;
   - Total $: the accumulated cost for the electricity spent for the current session;
 - (Optionally) It is possible to change brightness of the screen with A and B hardware buttons if you have the ones.
+
+## Troubleshooting, notes
+- Normally, on the device start you will see Wi-Fi connection progress text on the LCD screen and then the UI. If not, update the configurations and re-upload one more time.
+- The device will try to connect to the router and then to the PC companion app at every start. 
+- Sometimes it takes time (10-120) seconds to connect to router.
+- If the PC is offline, the device will wait for it, and you will see zeroes as the current consumption values. So the PC could be restarted randomly, and the values will be accumulated properly for the current session.
