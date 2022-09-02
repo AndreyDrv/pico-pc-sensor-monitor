@@ -2,7 +2,7 @@
 
 ![Pico PC Sensor Monitor](https://cdn-images-1.medium.com/max/800/1*dMR_2IIAheAoJv685_tZLw.gif)
 
-Wireless Pico PC Sensor Monitor with power consumption calculator using Raspberry Pi Pico W. It does not require a wired connection to your PC. For the more detailed guide you can visit article on Medium.
+Wireless Pico PC Sensor Monitor with power consumption calculator using Raspberry Pi Pico W. It does not require a wired connection to your PC. For the more detailed guide you can [visit article on Medium](https://andreyg.medium.com/diy-wireless-pc-power-consumption-monitor-with-electricity-bill-calculator-for-14-9781f6810069).
 
 ## Hardware requirements
 - [Raspberry Pi Pico W](https://www.raspberrypi.com/products/raspberry-pi-pico/?variant=raspberry-pi-pico-w)
