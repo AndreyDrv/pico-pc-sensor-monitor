@@ -1,13 +1,14 @@
 # Wireless Pico PC Sensor Monitor
 
-![Pico PC Sensor Monitor UI](https://cdn-images-1.medium.com/max/800/1*Ts2UdS8WdyrMtb4bxQJMbg.gif)
+![Pico PC Sensor Monitor](https://cdn-images-1.medium.com/max/800/1*dMR_2IIAheAoJv685_tZLw.gif)
 
 Wireless Pico PC Sensor Monitor with power consumption calculator using Raspberry Pi Pico W. It does not require a wired connection to your PC. For the more detailed guide you can visit article on Medium.
-
 
 ## Hardware requirements
 - [Raspberry Pi Pico W](https://www.raspberrypi.com/products/raspberry-pi-pico/?variant=raspberry-pi-pico-w)
 - [1.14 inch LCD screen panel](https://www.waveshare.com/pico-lcd-1.14.htm) or any other compatible panel with ST7789 and 240x135 resolution
+
+![Pico PC Sensor Monitor](https://cdn-images-1.medium.com/max/800/1*SEf9DrnfulCEGyVRpac4iQ.jpeg)
 
 ## Prerequisites
 1. Install [Open Hardware Monitor](https://openhardwaremonitor.org/);
