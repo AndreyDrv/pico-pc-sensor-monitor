@@ -22,7 +22,7 @@ Wireless Pico PC Sensor Monitor with power consumption calculator using Raspberr
 
 ![Pico PC Sensor Monitor UI](https://cdn-images-1.medium.com/max/800/1*rDi2Yaci8IelU5m_WsLkMg.png)
 
-- line 2: change the IP:Port string to the one you have at step [2] of Setup PC companion Software chapter;
+- line 2: change the IP:Port string to the one you have at step [2] of Prerequisites;
 - lines 6,8: your Wi-Fi credentials;
 - line 11: your local electricity cost per kWh in any currency;
 - there are some more parameters to finetune from this file.
